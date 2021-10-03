@@ -2,11 +2,11 @@
 <p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
 
 <p align="center">
-  <a href="https://github.com/MRK-YT/Al-Qur-an/fork">
+  <a href="https://github.com/DarkDevil1265/Quran/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/Al-Qur-an?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/MRK-YT/Al-Qur-an">
+  <a href="https://github.com/DarkDevil1265/Quran">
     <img src="https://img.shields.io/github/stars/MRK-YT/Al-Qur-an?style=social">
   </a>
 </p>  
@@ -25,7 +25,7 @@ Semoga bisa mengurangi dosa - dosa hamba
 # DEPLOY
 
 <b>
-<a href="https://heroku.com/deploy?template=https://github.com/MRK-YT/Al-Qur-an"><img src="https://img.shields.io/badge/BIKIN CUK DI HEROKU-brown?style=badge&logo=heroku"width="310" height="50"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/DarkDevil1265/Quran"><img src="https://img.shields.io/badge/BIKIN CUK DI HEROKU-brown?style=badge&logo=heroku"width="310" height="50"/></a>
 </b>
 
 ### TEMUKAN KAMI DI TELEGRAM
@@ -39,7 +39,7 @@ Semoga bisa mengurangi dosa - dosa hamba
 
 ### CREDIT
 
-* [KEN KAN](https://github.com/kenkannih/Al-Qur-an) - Al-Qur-an
+* [RJ](https://github.com/DarkDevil1265/Quran) - Al-Qur-an
 
 
 
