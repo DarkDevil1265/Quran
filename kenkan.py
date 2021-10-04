@@ -100,7 +100,7 @@ def message_handler(message):
         except Exception as err:
             BOT.reply_to(message, err)
     elif text in ['/repo']:
-        BOT.reply_to(message, "AL Qur-an Bot\n\nHow To Own This AL Qur-An Bot\n\n https://t.me/RJMALLU")
+        BOT.reply_to(message, "AL Qur-an Bot\n\nHow To Own This AL Qur-An Bot\n\n https://docs.google.com/presentation/d/1u6F1g7a38dh5mR1u054vuqYvA8wIR66prkPP_YPPGGE/edit?usp=drivesdk")
 
 @BOT.callback_query_handler(func=lambda call:True)
 def query_handler(call):
